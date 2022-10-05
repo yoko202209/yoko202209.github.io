@@ -1,0 +1,77 @@
+html{
+
+}
+
+.section_title{
+  text-align: center;
+}
+#songlist{
+  
+  background-color: lightgray;
+}
+
+.song_card{
+  background-color: white;
+  border: 1px gray solid;
+  border-radius: 10px;
+  height:200px
+}
+
+.song_title{
+  font-size: large;
+}
+
+.difficulty{
+  font-size: x-large;
+}
+
+.bdp{
+  background-color: orange;
+  color: white;
+}
+
+.ddp{
+  background-color: red;
+  color: white;
+}
+
+.edp{
+  background-color: green;
+  color: white;
+}
+
+.cdp{
+  background-color: purple;
+  color: white;
+}
+
+
+
+.rank_title{
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.rank_aaa{
+  color: green;
+}
+
+.rank_aa{
+  color: green;
+}
+
+.rank_a{
+  color: green;
+}
+
+.rank_b{
+  color: blue;
+}
+
+.rank_faild{
+  color: red;
+}
+
+.rank_noplay{
+  color: gray;
+}
